@@ -1,0 +1,11 @@
+EltonJohn,BlackSabbath,Marmalade,NormanGreenbaum,FiveStairsteps
+LedZeppelin,GeorgeHarrison,AlGreen,BlackSabbath,Carpenters
+NeilYoung,DeepPurple,GilbertOSullivan,EltonJohn,Hollies
+LynyrdSkynyrd,StevieWonder,DemisRoussos,RollingStones,Mocedades
+LynyrdSkynyrd,DollyParton,BlueSwede,EricClapton,Carpenters
+PinkFloyd,Nazareth,VanMcCoy,Aerosmith,Carpenters
+Queen,BeeGees,BarryWhite,ABBA,Smokie
+Queen,DavidBowie,FleetwoodMac,Boston,IggyPop
+BeeGees,UmbertoTozzi,Police,JohnTravolta&OliviaNewtonJohn,RichardClayderman
+PinkFloyd,ACDC,BeeGees,Police,GloriaGaynor
+

@@ -1,0 +1,100 @@
+1,Enrique Iglesias,Bailando,2014
+2,Adele,Hello,2016
+3,Taylor Swift,Blank Space,2015
+4,Taylor Swift,Shake It Off,2014
+5,Katy Perry,Roar,2014
+6,Maroon 5,Sugar,2015
+7,OneRepublic,Counting Stars,2014
+8,Justin Bieber,What Do You Mean,2015
+9,Calvin Harris,This Is What You Came For,2016
+10,Passenger,Let Her Go,2013
+11,Eminem,Love The Way You Lie,2010
+12,Avicii,Wake Me Up,2014
+13,Justin Bieber,Love Yourself,2016
+14,Adele,Rolling In The Deep,2011
+15,Calvin Harris,Summer,2014
+16,Ellie Goulding,Burn,2014
+17,OMI,Cheerleader,2015
+18,Twenty One Pilots,Stressed Out,2016
+19,Carly Rae Jepsen,Call Me Maybe,2012
+20,Katy Perry,Firework,2011
+21,Katy Perry,Last Friday Night  TGIF ,2011
+22,Rihanna feat Drake,Work,2016
+23,Sam Smith,Im Not The Only One,2015
+24,Iggy Azalea,Fancy,2014
+25,Shakira,Cant Remember To Forget You,2014
+26,AronChupa,Im An Albatraoz,2015
+27,David Guetta,Play Hard,2013
+28,Lorde,Royals,2013
+29,Ylvis,The Fox,2014
+30,Fetty Wap,Trap Queen,2015
+31,Imagine Dragons,Radioactive,2014
+32,Rihanna,Stay,2013
+33,Justin Bieber,Boyfriend,2012
+34,Rihanna,Whats My Name,2011
+35,Rihanna,Only Girl  In The World ,2010
+36,Katy Perry,This Is How We Do,2014
+37,Fun,We Are Young,2012
+38,Charlie Puth,Marvin Gaye,2016
+39,Coldplay,Adventure of A Lifetime,2016
+40,Robin Thicke,Blurred Lines,2013
+41,Taylor Swift,We Are Never Ever Getting Back Together,2012
+42,Meghan Trainor,Lips Are Movin,2015
+43,Twenty One Pilots,Ride,2016
+44,Lilly Wood The Prick,Prayer In C  Robin Schulz Remix ,2015
+45,Rihanna,Rude Boy,2010
+46,Charlie Puth,One Call Away,2016
+47,Flo Rida,Whistle,2012
+48,BoB,Airplanes,2010
+49,Adele,Send My Love  To Your New Lover ,2016
+50,Ed Sheeran,I See Fire,2015
+51,Psy,Gangnam Style,2012
+52,Capital Cities,Safe And Sound,2013
+53,Alvaro Soler,Sofia,2016
+54,Flo Rida,GDFR,2015
+55,Foster The People,Pumped Up Kicks,2011
+56,Drake,One Dance,2016
+57,Selena Gomez,Same Old Love,2016
+58,Wiz Khalifa,Black And Yellow,2011
+59,Maroon 5,Misery,2010
+60,One Direction,Steal My Girl,2015
+61,Shakira,Rabiosa,2011
+62,Tom Odell,Another Love,2014
+63,Pnk,Try,2012
+64,David Guetta,Without You,2011
+65,Walk The Moon,Shut Up and Dance,2015
+66,Owl City,Good Time,2012
+67,Disturbed,The Sound Of Silence,2016
+68,David Guetta,Where Them Girls At,2011
+69,Jason Derulo,Whatcha Say,2010
+70,Adele,When We Were Young,2016
+71,william,thatPOWER,2013
+72,Tove Lo,Habits Stay High,2014
+73,Of Monsters And Men,Little Talks,2012
+74,Kings Of Leon,Sex On Fire,2012
+75,David Guetta,Memories,2010
+76,Ed Sheeran,Sing,2014
+77,Kid Ink,Show Me,2013
+78,Willy William,Ego,2016
+79,Years and Years,King,2015
+80,Fun,Some Nights,2012
+81,Macklemore and Ryan Lewis,Cant Hold Us,2013
+82,Lindsey Stirling,Crystallize,2013
+83,Klingande,Jubel,2013
+84,Labrinth,Beneath Your Beautiful,2013
+85,Pnk,Raise Your Glass,2010
+86,Lana Del Rey,Video Games,2011
+87,Faul and Wad Ad Vs Pnau,Changes,2013
+88,Usher,OMG,2010
+89,OneRepublic,If I Lose Myself,2013
+90,Coldplay,Magic,2014
+91,James Bay,Hold Back The River,2015
+92,Lykke Li,I Follow Rivers,2011
+93,Martin Solveig,Intoxicated,2015
+94,Galantis,Runaway U and I,2015
+95,Pharrell Williams,Happy,2013
+96,Major Lazer ,Lean On,2015
+97,Kwabs,Walk,2014
+98,George Ezra,Budapest,2014
+99,Icona Pop,I Love It,2012
+100,Jessie J,Bang Bang,2015

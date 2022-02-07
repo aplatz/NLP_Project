@@ -1,0 +1,7 @@
+Rihanna,Maroon5,JasonDerulo
+KatyPerry,Adele,Drake,FosterThePeople,WizKhalifa
+CarlyRaeJepsen,JustinBieber,FunfeatJanelleMonae,TaylorSwift,FloRida
+Passenger,Lorde,RihannafeatMikkyEkko,RobinThickefeatTI&PharrellWilliams
+KatyPerry,TaylorSwift,OneRepublic,Avicii
+TaylorSwift,Maroon5,JustinBieber,OMI,SamSmith
+Adele,TwentyOnePilots,CalvinHarris,JustinBieber,Rihanna

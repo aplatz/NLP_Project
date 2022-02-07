@@ -1,0 +1,100 @@
+1,Ben E King,Stand By Me,1961
+2,Animals,House of the Rising Sun,1964
+3,Mamas and The Papas,California Dreamin,1965
+4,Righteous Brothers,Unchained Melody,1965
+5,Nancy Sinatra,These Boots Are Made For Walkin,1966
+6,Aretha Franklin,I Say A Little Prayer,1968
+7,Procol Harum,A Whiter Shade Of Pale,1967
+8,Scott McKenzie,San Francisco Be Sure To Wear Flowers In Your Hair,1967
+9,Elvis Presley,In The Ghetto,1969
+10,Beatles,Hey Jude,1969
+11,Archies,Sugar Sugar,1969
+12,Doors,Light My Fire,1967
+13,Doors,End,1967
+14,Beatles,Hello Goodbye,1967
+15,Johnny Cash,Ring Of Fire,1963
+16,Rolling Stones,Sympathy for the Devil,1968
+17,Bee Gees,Massachusetts,1967
+18,Aretha Franklin,Respect,1967
+19,Ray Charles,Hit the Road Jack,1961
+20,Frank Sinatra,Strangers In The Night,1966
+21,Buffalo Springfield,For What Its Worth,1967
+22,Jefferson Airplane,Somebody To Love,1967
+23,Beatles,Penny Lane,1967
+24,Joe Cocker,With A Little Help From My Friends,1969
+25,Dusty Springfield,Son of a Preacher Man,1968
+26,Beatles,We Can Work It Out,1966
+27,Jackson 5,I Want You Back,1969
+28,Percy Sledge,When A Man Loves A Woman,1966
+29,Animals,Dont Let Me Be Misunderstood,1965
+30,Trashmen,Surfin Bird,1964
+31,Seekers,Ill Never Find Another You,1965
+32,Drifters,Save The Last Dance For Me,1961
+33,Elvis Presley,Suspicious Minds,1969
+34,Led Zeppelin,Ramble On,1969
+35,Beatles,She Loves You,1964
+36,John Lee Hooker,Boom Boom,1963
+37,Tommy James And The Shondells,Crimson And Clover,1969
+38,Rolling Stones,Paint It Black,1966
+39,Adriano Celentano,Azzurro,1968
+40,Shocking Blue,Venus,1969
+41,Van Morrison,Brown Eyed Girl,1967
+42,Aretha Franklin,Think,1968
+43,Ronettes,Be My Baby,1963
+44,Cream,White Room,1969
+45,Steppenwolf,Born To Be Wild,1968
+46,Beatles,Yellow Submarine,1966
+47,Shadows,Apache,1961
+48,Dion,Runaround Sue,1961
+49,Ray Charles,I Cant Stop Loving You,1962
+50,Stooges,I Wanna Be Your Dog,1969
+51,Canned Heat,On The Road Again,1968
+52,Bee Gees,Words,1968
+53,Cream,Sunshine of Your Love,1968
+54,Otis Redding,Sittin On The Dock of the Bay,1968
+55,Shirelles,Will You Love Me Tomorrow,1960
+56,Gary Puckettand the Union Gap,Young Girl,1968
+57,Band,Weight,1968
+58,Sonny and Cher,I Got You Babe,1965
+59,Drifters,Under the Boardwalk,1964
+60,Edith Piaf,Milord,1960
+61,Ricky Nelson,Hello Mary-Lou,1961
+62,Rolling Stones,I Cant Get No Satisfaction,1965
+63,Bee Gees,New York Mining Disaster 1941,1967
+64,Velvet Underground,Sunday Morning,1966
+65,Elvis Presley,Cant Help Falling in Love,1961
+66,Jackie Wilson,Your Love Keeps Lifting Me Higher And Higher,1967
+67,Jimi Hendrix,Purple Haze,1967
+68,Lesley Gore,You Dont Own Me,1963
+69,Hollies,Carrie Anne,1967
+70,Joni Mitchell,Both Sides Now,1969
+71,Creedence Clearwater Revival,Bad Moon Rising,1969
+72,Beatles,Yesterday,1966
+73,Bobby Darin,Mack The Knife,1960
+74,Beach Boys,Good Vibrations,1966
+75,BB King,Thrill Is Gone,1969
+76,Wilson Pickett,In the Midnight Hour,1965
+77,Hollies,He Aint Heavy Hes My Brother,1969
+78,Peter Sarstedt,Where Do You Go ToMy Lovely,1969
+79,Four Tops,I Cant Help Myself,1965
+80,Glen Campbell,Wichita Lineman,1968
+81,Marcels,Blue Moon,1961
+82,Bobbie Gentry,Ode to Billie Joe,1967
+83,Rolling Stones,Honky Tonk Women,1969
+84,Velvet Underground,Heroin,1967
+85,Dixie Cups,Chapel Of Love,1964
+86,Jimmy Cliff,Many Rivers to Cross,1969
+87,Engelbert Humperdinck,Release Me,1967
+88,Beatles,Ticket To Ride,1965
+89,Hollies,Bus Stop,1966
+90,Neil Sedaka,Oh Carol,1960
+91,Tremeloes,Silence Is Golden,1967
+92,Supremes,Baby Love,1964
+93,Creedence Clearwater Revival,Proud Mary,1969
+94,Dionne Warwick,Walk On By,1964
+95,Who,My Generation,1966
+96,Led Zeppelin,Heartbreaker,1969
+97,Bee Gees,To Love Somebody,1967
+98,Four Tops,Baby I Need Your Loving,1965
+99,Bob Dylan,Like A Rolling Stone,1965
+100,Supremes,You Keep Me Hangin On,1966

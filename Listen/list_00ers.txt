@@ -1,0 +1,100 @@
+1,Eminem,When Im Gone,2006
+2,Coldplay,Viva La Vida,2009
+3,Evanescence,My Immortal,2004
+4,Evanescence,Bring Me To Life,2003
+5,Eminem,Just Lose It,2004
+6,Hoobastank,Reason,2004
+7,Shakira,La Tortura,2005
+8,Linkin Park,New Divide,2009
+9,Rihanna,Unfaithful,2006
+10,Avril Lavigne,When Youre Gone,2007
+11,Eminem,Like Toy Soldiers,2005
+12,Enrique Iglesias,Hero,2001
+13,Linkin Park,What Ive Done,2007
+14,Justin Timberlake,What Goes Around Comes Around,2007
+15,Lil Wayne,Lollipop,2008
+16,Beyonce,Irreplaceable,2007
+17,OutKast,Hey Ya,2003
+18,Coldplay,Clocks,2002
+19,Daddy Yankee,Gasolina,2005
+20,Rihanna,Russian Roulette,2009
+21,Kelly Clarkson,Because Of You,2006
+22,Basshunter,Now Youre Gone,2008
+23,Evanescence,Going Under,2003
+24,White Stripes,Seven Nation Army,2003
+25,Red Hot Chili Peppers,Otherside,2000
+26,Green Day,Boulevard Of Broken Dreams,2005
+27,OneRepublic,Secrets,2009
+28,Paul Potts,Nessun Dorma,2008
+29,Snow Patrol,Chasing Cars,2008
+30,Kings Of Leon,Use Somebody,2009
+31,Eminem,Cleanin Out My Closet,2002
+32,Beyonce,Sweet Dreams,2009
+33,James Blunt,Youre Beautiful,2005
+34,Crazy Frog,We Are The Champions Ding A Dang Dong,2006
+35,Enrique Iglesias,Takin Back My Love,2009
+36,Britney Spears,Circus,2009
+37,Christina Aguilera,Hurt,2006
+38,Script,Man Who Cant Be Moved,2008
+39,Daft Punk,One More Time,2001
+40,Gwen Stefani,Hollaback Girl,2005
+41,Red Hot Chili Peppers,Snow hey Oh,2007
+42,David Guetta,When Love Takes Over,2009
+43,Linkin Park,Breaking The Habit,2004
+44,Gnarls Barkley,Crazy,2006
+45,R Kelly,Ignition Remix,2003
+46,Leona Lewis,Better In Time,2008
+47,Red Hot Chili Peppers,By The Way,2002
+48,Green Day,Wake Me Up When September Ends,2005
+49,Pigloo,Papa Pinguin,2007
+50,MIA,Paper Planes,2008
+51,Black Eyed Peas,Lets Get It Started,2004
+52,Shakira,Underneath Your Clothes,2002
+53,U2,Beautiful Day,2000
+54,Nightwish,Amaranth,2007
+55,Green Day,American Idiot,2004
+56,Britney Spears,Im A Slave 4 U,2001
+57,Pussycat Dolls,Beep,2006
+58,James Morrison,Broken Strings,2009
+59,Plain White Ts,Hey There Delilah,2007
+60,Sara Bareilles,Love Song,2008
+61,Mika,Happy Ending,2008
+62,Baby Bash,Suga Suga,2004
+63,Lenny Kravitz,Again,2000
+64,Dido,White Flag,2003
+65,Sean Paul,Like Glue,2003
+66,Backstreet Boys,Shape Of My Heart,2000
+67,Mario,Let Me Love You,2005
+68,Pnk,Just Like A Pill,2002
+69,Leona Lewis,Run,2009
+70,Duffy,Mercy,2008
+71,MGMT,Time to Pretend,2008
+72,Nelly,My Place,2004
+73,Katy Perry,Thinking Of You,2009
+74,Pussycat Dolls,I Hate This Part,2009
+75,Madonna,Give It 2 Me,2008
+76,Kelly Clarkson,Already Gone,2009
+77,Basshunter,Boten Anna,2007
+78,Pnk,Family Portrait,2003
+79,Shania Twain,Forever And For Always,2003
+80,Amy MacDonald,This Is The Life,2008
+81,Nickelback,Gotta Be Somebody,2008
+82,Johnny Cash,Hurt,2002
+83,Juanes,Volverte A Ver,2006
+84,Marc Anthony,You Sang To Me,2000
+85,Manu Chao,Bongo Bong,2000
+86,Avril Lavigne,Dont Tell Me,2004
+87,Nelly,Hot St Country Grammar,2001
+88,Santana,Into The Night,2007
+89,RIO,Shine On,2008
+90,Underdog Project,Summer Jam,2000
+91,R Kelly,I Wish,2000
+92,Ronan Keating,If Tomorrow Never Comes,2002
+93,Ashley Tisdale,He Said She Said,2007
+94,Pitbull,Hotel Room Service,2009
+95,Christina Aguilera,Beautiful,2003
+96,P Diddy,Last Night,2007
+97,Gigi dAgostino,Lamour Toujours,2002
+98,Nightwish,Nemo,2004
+99,Nelly Furtado,Manos Al Aire,2009
+100,MGMT,Kids,2009

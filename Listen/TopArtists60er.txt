@@ -1,0 +1,10 @@
+Shirelles,EdithPiaf,BobbyDarin,NeilSedaka,BenE.King
+BenE.King,RayCharles,Drifters,Dion,Shadows
+RayCharles,LittleEva,TonyRenis,ElvisPresley,Tokens
+JohnnyCash,JohnLeeHooker,Ronettes,LesleyGore,BobDylan
+Animals,Beatles,Trashmen,Drifters,DixieCups
+Mamas&Papas,RighteousBrothers,Animals,Seekers,RollingStones
+NancySinatra,Beatles,FrankSinatra,PercySledge,RollingStones
+Doors,Beatles,ProcolHarum,ScottMcKenzie,BeeGees
+ArethaFranklin,RollingStones,DustySpringfield,AdrianoCelentano,Steppenwolf
+ElvisPresley,Beatles,Archies,JoeCocker,LedZeppelin

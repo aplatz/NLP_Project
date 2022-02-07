@@ -1,0 +1,100 @@
+1,Queen,Bohemian Rhapsody,1976
+2,AC DC,Highway To Hell,1979
+3,Pink Floyd,Another Brick In The Wall  Part II,1979
+4,Bee Gees,Stayin  Alive,1978
+5,Led Zeppelin,Stairway to Heaven,1971
+6,Queen,Somebody To Love,1977
+7,Pink Floyd,Wish You Were Here,1975
+8,Bee Gees,How Deep Is Your Love,1978
+9,Elton John,Your Song,1970
+10,Bee Gees,Too Much Heaven,1979
+11,David Bowie,Heroes,1977
+12,Fleetwood Mac,Go Your Own Way,1977
+13,Pink Floyd,Comfortably Numb,1979
+14,Neil Young,Heart of Gold,1972
+15,Lynyrd Skynyrd,Free Bird,1973
+16,Deep Purple,Smoke on the Water,1972
+17,Police,Roxanne,1978
+18,Bee Gees,You Should Be Dancing,1976
+19,Gilbert O Sullivan,Alone Again  Naturally,1972
+20,George Harrison,My Sweet Lord,1971
+21,Lynyrd Skynyrd,Sweet Home Alabama,1974
+22,Stevie Wonder,Superstition,1973
+23,Umberto Tozzi,Ti Amo,1978
+24,Police,Message In A Bottle,1979
+25,Umberto Tozzi,Tu,1978
+26,Boston,More Than A Feeling,1977
+27,Black Sabbath,Iron Man,1971
+28,Black Sabbath,Paranoid,1970
+29 ,Rolling Stones,Angie,1973
+30,Elton John,Tiny Dancer,1972
+31,Hollies,Long Cool Woman  In A Black Dress,1972
+32,Bee Gees,Tragedy,1979
+33,Nazareth,Love Hurts,1975
+34,Carpenters,We ve Only Just Begun,1971
+35,Dolly Parton,Jolene,1974
+36,Richard Clayderman,Ballade Pour Adeline,1978
+37,Temptations,Just My Imagination  Running Away With Me,1971
+38,John Travolta,You re The One That I Want,1978
+39,Al Green,Tired Of Being Alone,1971
+40,Barry White,Let The Music Play,1976
+41,Demis Roussos,Forever And Ever,1973
+42,Marmalade,Reflections Of My Life,1970
+43,Middle Of The Road,Chirpy Chirpy Cheep Cheep,1971
+44,Blondie,One Way or Another,1978
+45,John Lennon,Imagine,1972
+46,Norman Greenbaum,Spirit In The Sky,1970
+47,Five Stairsteps,O o h Child,1970
+48,Blue Swede,Hooked On A Feeling,1974
+49,Led Zeppelin,Black Dog,1971
+50,Eric Clapton,I Shot The Sheriff,1974
+51,Iggy Pop,Lust For Life,1977
+52,Bill Withers,Ain t No Sunshine,1971
+53,Gerry Rafferty,Baker Street,1978
+54,John Travolta,Summer Nights,1978
+55,Carpenters,Top Of The World,1974
+56,Gloria Gaynor,I Will Survive,1979
+57,Queen,We Will Rock You,1977
+58,Mocedades,Eres Tu  Touch The Wind,1973
+59,Three Degrees,When Will I See You Again,1974
+60,Stevie Wonder,I Wish,1977
+61,Stevie Wonder,You Are the Sunshine of My Life,1972
+62,Anita Ward,Ring My Bell,1979
+63,Led Zeppelin,Rock And Roll,1972
+64,Umberto Tozzi,Gloria,1979
+65,Heart,Barracuda,1977
+66,Janis Joplin,Me And Bobby McGee,1971
+67,Van McCoy,The Hustle,1975
+68,Paul McCartney,Maybe I m Amazed,1970
+69,Three Dog Night,Mama Told Me  Not To Come,1970
+70,Neil Young,My My  Hey Hey  Out of the Blue,1979
+71,Edison Lighthouse,Love Grows  Where My Rosemary Goes,1970
+72,Who,Baba O Riley,1971
+73,Elton John,Rocket Man  I Think It s Going To Be A Long  Long Time,1972
+74,Sex Pistols,Anarchy in the U K,1976
+75,Queen,Crazy Little Thing Called Love,1979
+76,Knack,My Sharona,1979
+77,Demis Roussos,Goodbye  My Love  Goodbye,1973
+78,Aerosmith,Walk This Way,1975
+79,Simon and Garfunkel,Bridge Over Troubled Water,1970
+80,Smokie,I ll Meet You At Midnight,1976
+81,Lobo,I d Love You To Want Me,1974
+82,George Harrison,Give Me Love  Give Me Peace On Earth,1973
+83,Queen,Bicycle Race,1978
+84,Uriah Heep,Easy Livin,1973
+85,Golden Earring,Radar Love,1973
+86,Carpenters,Please Mr  Postman,1975
+87,Elton John,Daniel,1973
+88,Blondie,Heart Of Glass,1979
+89,Smokie,Living Next Door To Alice,1977
+90,Status Quo,Rockin  All Over The World,1978
+91,Queen,Now I m Here,1975
+92,Jimi Hendrix,Voodoo Child,1971
+93,Suzi Quatro,48 Crash,1973
+94,Rolling Stones,Wild Horses,1971
+95,B 52 s,Rock Lobster,1979
+96,Paul McCartney,Live And Let Die,1973
+97,Chic,Le Freak,1979
+98,Roberta Flack,Killing Me Softly With His Song,1973
+99,John Lennon,Stand By Me,1975
+100,Chuck Berry,My Ding a ling,1973
